@@ -204,6 +204,10 @@ type: comment
 body: "fr"
 comment: "fr fr"
 ---
+type: comment
+body: skill
+comment: probably skill issue
+---
 title: "KFC"
 comment: "KFC? You're talking about KFC Clash right?"
 ---
